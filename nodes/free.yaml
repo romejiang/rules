@@ -1,0 +1,6 @@
+proxies:
+  - name: 8.140.173.90
+    server: 8.140.173.90
+    port: 30021
+    type: http
+  
