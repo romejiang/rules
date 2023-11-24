@@ -1,5 +1,133 @@
 proxies:
+  - name: 101.34.255.68
+    server: 101.34.255.68
+    port: 7890
+    type: http
+  - name: 106.122.205.90
+    server: 106.122.205.90
+    port: 17890
+    type: http
+  - name: 47.97.202.146
+    server: 47.97.202.146
+    port: 7890
+    type: http
+  - name: 222.70.51.174
+    server: 222.70.51.174
+    port: 7890
+    type: http
+  - name: 47.98.180.6
+    server: 47.98.180.6
+    port: 7890
+    type: http
+  - name: 43.143.211.48
+    server: 43.143.211.48
+    port: 17890
+    type: http
+  - name: 8.140.173.90
+    server: 8.140.173.90
+    port: 30021
+    type: http
+  - name: 211.158.145.195
+    server: 211.158.145.195
+    port: 9883
+    type: http
+  - name: 123.120.10.118
+    server: 123.120.10.118
+    port: 17890
+    type: http
+  - name: 114.55.234.41
+    server: 114.55.234.41
+    port: 7890
+    type: http
+  - name: 124.16.71.92
+    server: 124.16.71.92
+    port: 9890
+    type: http
+  - name: 27.214.80.32
+    server: 27.214.80.32
+    port: 7890
+    type: http
+  - name: 8.137.57.170
+    server: 8.137.57.170
+    port: 7890
+    type: http
   - name: 43.138.14.231
     server: 43.138.14.231
+    port: 7890
+    type: http
+  - name: 119.34.134.66
+    server: 119.34.134.66
+    port: 7898
+    type: http
+  - name: 123.249.127.248
+    server: 123.249.127.248
+    port: 7899
+    type: http
+  - name: 47.111.26.134
+    server: 47.111.26.134
+    port: 7890
+    type: http
+  - name: 8.134.136.225
+    server: 8.134.136.225
+    port: 7890
+    type: http
+  - name: 124.78.208.227
+    server: 124.78.208.227
+    port: 7890
+    type: http
+  - name: 101.6.55.68
+    server: 101.6.55.68
+    port: 7892
+    type: http
+  - name: 116.232.65.114
+    server: 116.232.65.114
+    port: 7892
+    type: http
+  - name: 171.217.88.96
+    server: 171.217.88.96
+    port: 3003
+    type: http
+  - name: 101.43.249.115
+    server: 101.43.249.115
+    port: 7890
+    type: http
+  - name: 114.83.4.41
+    server: 114.83.4.41
+    port: 7890
+    type: http
+  - name: 58.52.171.246
+    server: 58.52.171.246
+    port: 7890
+    type: http
+  - name: 8.141.12.49
+    server: 8.141.12.49
+    port: 7890
+    type: http
+  - name: 14.19.167.88
+    server: 14.19.167.88
+    port: 6660
+    type: http
+  - name: 58.218.199.187
+    server: 58.218.199.187
+    port: 33210
+    type: http
+  - name: 8.140.135.120
+    server: 8.140.135.120
+    port: 7890
+    type: http
+  - name: 47.105.37.46
+    server: 47.105.37.46
+    port: 7892
+    type: http
+  - name: 182.148.199.95
+    server: 182.148.199.95
+    port: 7890
+    type: http
+  - name: 110.81.115.182
+    server: 110.81.115.182
+    port: 10086
+    type: http
+  - name: 8.134.100.230
+    server: 8.134.100.230
     port: 7890
     type: http
