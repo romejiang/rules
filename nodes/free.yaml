@@ -1,6 +1,5 @@
 proxies:
-  - name: 8.140.173.90
-    server: 8.140.173.90
-    port: 30021
+  - name: 43.138.14.231
+    server: 43.138.14.231
+    port: 7890
     type: http
-  
