@@ -1,5 +1,7 @@
 payload:
   - DOMAIN-SUFFIX,openai.com
+  - DOMAIN-KEYWORD,openai
+  - DOMAIN-KEYWORD,openaicom
   - DOMAIN-SUFFIX,azureedge.net
   - DOMAIN-SUFFIX,sentry.io
   - DOMAIN-SUFFIX,challenges.cloudflare.com
